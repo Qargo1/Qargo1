@@ -1,5 +1,7 @@
 [![Header](https://github.com/Qargo1/Qargo1/blob/main/assets/header.png)](https://github.com/Qargo1)
 
+[![Обо мне]](https://github.com/Qargo1/Qargo1/blob/main/assets/about_me.png)
+
 ## I am a budding front-end developer with a passion for creating visually appealing and user-friendly websites and web applications. I have been actively freelancing for the past year, honing my skills and gaining valuable experience in various projects.##
 
 **Here are some of my key strengths:**
@@ -17,3 +19,8 @@
 **Please feel free to review my portfolio of work and contact me to discuss how I can assist you with your front-end development needs.**
 
 **Thank you for your time and consideration.**
+
+### Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-0969da?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-0969da?style=for-the-badge&logocolor=47C5FB&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-0969da?style=for-the-badge&logo=javascript)
+
+
