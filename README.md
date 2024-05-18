@@ -1,1 +1,1 @@
-[![Header] (https://github.com/Qargo1/Qargo1/blob/main/assets/header_image.png)](https://github.com/Qargo1)
+[![Header](https://github.com/Qargo1/Qargo1/blob/main/assets/header.png)](https://github.com/Qargo1)
