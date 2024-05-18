@@ -1,6 +1,6 @@
 [![Header](https://github.com/Qargo1/Qargo1/blob/main/assets/header.png)](https://github.com/Qargo1)
 
-[![Обо мне]](https://github.com/Qargo1/Qargo1/blob/main/assets/about_me.png)
+[Обо мне](https://github.com/Qargo1/Qargo1/blob/main/assets/about_me.png)
 
 ## I am a budding front-end developer with a passion for creating visually appealing and user-friendly websites and web applications. I have been actively freelancing for the past year, honing my skills and gaining valuable experience in various projects.##
 
