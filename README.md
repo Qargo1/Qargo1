@@ -2,7 +2,7 @@
 
 [Обо мне](https://github.com/Qargo1/Qargo1/blob/main/assets/about_me.png)
 
-## I am a budding front-end developer with a passion for creating visually appealing and user-friendly websites and web applications. I have been actively freelancing for the past year, honing my skills and gaining valuable experience in various projects.##
+## I am a budding back-end developer with a passion for creating visually appealing and user-friendly websites and web applications. I have been actively freelancing for the past year, honing my skills and gaining valuable experience in various projects.##
 
 **Here are some of my key strengths:**
 
